@@ -1,0 +1,5 @@
+export const UPDATE_CHAPTER = 'UPDATE_CHAPTER'
+
+export const UPDATE_LINK = 'UPDATE_LINK'
+
+export const UPDATE_INFO = 'UPDATE_INFO'
